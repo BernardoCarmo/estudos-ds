@@ -81,3 +81,4 @@ resumo.to_csv("resumo_departamentos.csv")
 
 # salvar como Excel
 resumo.to_excel("resumo_departamentos.xlsx")
+
